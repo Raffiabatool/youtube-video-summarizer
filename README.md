@@ -32,8 +32,7 @@ flowchart LR
 
 ## Workflow Preview
 
-### Workflow Canvas
-![Workflow Canvas](assets/workflow-canvas.jpg)
+[workflow](assets/Github1.JPG)
 
 ### Input Form
 ![Input Form](assets/input-form.jpg)
