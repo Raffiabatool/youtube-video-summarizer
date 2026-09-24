@@ -32,13 +32,13 @@ flowchart LR
 
 ## Workflow Preview
 
-![Input Form](assets/Github1.JPG)
+[Input Form](assets/Github1.JPG)
 
 
-![Workflow](assets/git2-workflow.JPG)
+[Workflow](assets/git2-workflow.JPG)
 
 
-![Example Output](assets/github2_output.JPG)
+[Example Output](assets/github2_output.JPG)
 
 ##  Tech Stack
 
